@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=abdullah-al-monir&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
+
 👋 Junior Frontend Developer
 <br/>
 🚀 Experience in creating functional and responsive web interfaces
@@ -48,3 +50,5 @@ Open to contributing and new opportunities! 😊
 </p>
 <p align="center">
 <img style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=chartreuse-dark" /></p>
+
+
