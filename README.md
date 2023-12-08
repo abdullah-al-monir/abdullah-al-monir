@@ -1,4 +1,3 @@
-[![Profile Views](https://visitcount.itsvg.in/api?id=abdullah-al-monir&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
 
 👋 Junior Frontend Developer
 <br/>
@@ -13,7 +12,9 @@
 📫 Let's connect: <a href="https://www.linkedin.com/in/aam364/">Abdullah Al Monir</a>
 <br/><br/>
 Open to contributing and new opportunities! 😊
-<br>
+<br/></br>
+![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-monir&color=green)
+
 
 ## Socials
 
@@ -50,5 +51,3 @@ Open to contributing and new opportunities! 😊
 </p>
 <p align="center">
 <img style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=chartreuse-dark" /></p>
-
-
