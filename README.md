@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=abdullah-al-monir&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=abdullah-al-monir&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
 
 👋 Junior Frontend Developer
 <br/>
