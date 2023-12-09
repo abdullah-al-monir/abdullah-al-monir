@@ -71,6 +71,7 @@ Open to contributing and new opportunities! 😊
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=abdullah-al-monir&theme=algolia" />
 </p>
-
 <p align="center">
-<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=algolia" /></p>
+<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-monir&show_icons=true&theme=transparent&rank_icon=github" /></p>
+<p align="center">
+<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=algolia&layout=compact" /></p>
