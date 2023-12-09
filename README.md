@@ -1,27 +1,32 @@
 <img src="/images/github-profile-banner.jpg" alt="Front-End Developer" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-monir&color=008000)
 
-<h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" /> About Me</h2>
+## <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" /> About Me
 
-<h3 align="center" style="display: flex; justify-content: center ;align-items: center;">Hi, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/>  I'm Abdullah Al Monir</h3>
+<h3 align="center">Hi, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> I'm Abdullah Al Monir</h3>
+
 <p align="center">I am a Junior Front-End Developer</p>
 
 🚀 Eager learner in frontend development, focusing on crafting responsive web interfaces.
-💻 Proficient in HTML, CSS, and JavaScript,  
-🛠️ Keen to explore React, Tailwind CSS, Bootstrap, Firebase, and MongoDB.  
+
+💻 Proficient in HTML, CSS, and JavaScript,
+
+🛠️ Keen to explore React, Tailwind CSS, Bootstrap, Firebase, and MongoDB.
+
 🌱 Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
 
 📫 Reach me at <a>abdullahalmonir364@gmail.com</a>
 
 Open to contributing and new opportunities! 😊
 
-<h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/dioml5wsoBZYqJGqip/giphy.gif" height="35px" width="35px" /> Social</h2>
+## <img src="https://media.giphy.com/media/dioml5wsoBZYqJGqip/giphy.gif" height="35px" width="35px" /> Social
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aam364)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_colon_three)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aam364)
 
- <h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" height="40px" width="40px" /> Technologies & Proficiencies</h2>
+## <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" height="40px" width="40px" /> Technologies & Proficiencies
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -41,10 +46,31 @@ Open to contributing and new opportunities! 😊
 [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Adobe Illustrator Badge](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 
-<h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="35px" width="35px" /> Git Activity</h2>
+## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" height="30px" width="30px" /> Featured Projects
+
+### [Work Atlas](https://work-atlas.web.app)
+
+![Work Atlas](/images/work%20atlas.JPG)
+
+**Work Atlas** is a **Job Recruitment Site** built with **ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs, EmailJS, React to PDF, and JWT**. This project demonstrates my ability to **Responsive design, Backend integration, Data visualization, Search functionality,Sending email functionality, PDF downloading system and User authentication**. You can check out the repository [Client Side](https://github.com/abdullah-al-monir/work-atlas-client), [Server Side](https://github.com/abdullah-al-monir/work-atlas-server).
+
+### [Automotive Oasis](https://automotive-oasis.web.app)
+
+![Automotive Oasis](/images/automotive-oasis.png)
+
+**Automotive Oasis** is an **Online car shop website** built with **ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, and NodeJs**. This project showcases my skills in **Responsive design, Backend integration, Data visualization, Search functionality, and User authentication**. You can check out the repository [Client Side](https://github.com/abdullah-al-monir/online-car-shop-client), [Server Side](https://github.com/abdullah-al-monir/online-car-shop-server)
+
+### [NexGen Diagnosia](https://nexgen-diagnosia.web.app)
+
+![NexGen Diagnosia](/images/nexgen-diagnosia.png)
+
+**NexGen Diagnosia** is a **Diagnostic Center Website** built with **ReactJs, Material UI, Firebase, MongoDB, ExpressJs, NodeJs, JWT, Stripe Js, and Tanstack Query**. This project showcases my skills in **Responsive design, Backend integration, Data visualization, Implement payment method using stripe, Implement 2 different role, also added dashboard for users and admin**. You can check out the repository [Client Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-client),[Server Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-server)
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> Git Activity
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=abdullah-al-monir&theme=chartreuse-dark" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=abdullah-al-monir&theme=algolia" />
 </p>
+
 <p align="center">
-<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=chartreuse-dark" /></p>
+<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=algolia" /></p>
