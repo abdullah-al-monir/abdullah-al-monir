@@ -4,8 +4,8 @@
 
 ## <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" /> About Me
 
-<h3 align="center"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> Hi, I'm Abdullah Al Monir</h3>
-<p align="center">I am a Junior Front-End Developer</p>
+<h3><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> Hi, I'm Abdullah Al Monir</h3>
+<p>I am a Junior Front-End Developer</p>
 
 🌟 Eager learner in frontend development, focusing on crafting responsive web interfaces.
 </br>
