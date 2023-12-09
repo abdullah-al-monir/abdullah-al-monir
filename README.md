@@ -67,10 +67,19 @@ Open to contributing and new opportunities! 😊
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
 
+
+
+
+
+
 <p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-al-monir&theme=algolia" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-al-monir&theme=algolia" alt="GitHub Streak" />
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 10px;">
 </p>
 <p align="center">
-<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-monir&show_icons=true&theme=algolia&rank_icon=github" /></p>
-<p align="center">
-<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=algolia&layout=compact" /></p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-al-monir&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+</p>
