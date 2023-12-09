@@ -65,7 +65,7 @@ Open to contributing and new opportunities! 😊
 
 **NexGen Diagnosia** is a **Diagnostic Center Website** built with **ReactJs, Material UI, Firebase, MongoDB, ExpressJs, NodeJs, JWT, Stripe Js, and Tanstack Query**. This project showcases my skills in **Responsive design, Backend integration, Data visualization, Implement payment method using stripe, Implement 2 different role, also added dashboard for users and admin**. You can check out the repository [Client Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-client),[Server Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-server)
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> Git Activity
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
 
 <p align="center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-al-monir&theme=algolia" alt="GitHub Streak" />
