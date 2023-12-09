@@ -1,28 +1,27 @@
+<img src="/images/github-profile-banner.jpg" alt="Front-End Developer" />
+![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-monir&color=008000)
 
-👋 Junior Frontend Developer
-<br/>
-🚀 Experience in creating functional and responsive web interfaces
-<br/>
-💻 Proficient in HTML, CSS, and JavaScript
-<br/>
-🛠️ Experience with React, Tailwind CSS, Bootstrap, Firebase and MongoDB
-<br/>
-🌱 Passionate about learning web development sector
-<br/>
-📫 Let's connect: <a href="https://www.linkedin.com/in/aam364/">Abdullah Al Monir</a>
-<br/><br/>
+<h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" /> About Me</h2>
+
+<h3 align="center" style="display: flex; justify-content: center ;align-items: center;">Hi, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/>  I'm Abdullah Al Monir</h3>
+<p align="center">I am a Junior Front-End Developer</p>
+
+🚀 Eager learner in frontend development, focusing on crafting responsive web interfaces.
+💻 Proficient in HTML, CSS, and JavaScript,  
+🛠️ Keen to explore React, Tailwind CSS, Bootstrap, Firebase, and MongoDB.  
+🌱 Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
+
+📫 Reach me at <a>abdullahalmonir364@gmail.com</a>
+
 Open to contributing and new opportunities! 😊
-<br/></br>
-![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-monir&color=green)
 
-
-## Socials
+<h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/dioml5wsoBZYqJGqip/giphy.gif" height="35px" width="35px" /> Social</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aam364)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_colon_three)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aam364)
 
-# Technologies & Proficiencies
+ <h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" height="40px" width="40px" /> Technologies & Proficiencies</h2>
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -42,12 +41,10 @@ Open to contributing and new opportunities! 😊
 [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Adobe Illustrator Badge](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 
-</br></br>
-
-# Git Activity
+<h2 style="display: flex; align-items: center; gap: 5px"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="35px" width="35px" /> Git Activity</h2>
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=abdullah-al-monir&theme=chartreuse-dark" />
 </p>
 <p align="center">
-<img style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=chartreuse-dark" /></p>
+<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=chartreuse-dark" /></p>
