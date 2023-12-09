@@ -4,27 +4,17 @@
 
 ## <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" /> About Me
 
-<h3 align="center">Hi, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> I'm Abdullah Al Monir</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> Hi, I'm Abdullah Al Monir</h3>
 <p align="center">I am a Junior Front-End Developer</p>
 
-
-- Eager learner in frontend development, focusing on crafting responsive web interfaces.
-- Proficient in:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Tailwind CSS
-  - Bootstrap
-  - Firebase
-  - MongoDB
-- Currently exploring:
-  - NextJs
-  - Mongoose
-  - Redux
-  - Material Tailwind
-- Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
-
+🌟 Eager learner in frontend development, focusing on crafting responsive web interfaces.
+</br>
+💻 Proficient in HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Firebase, MongoDB.
+</br>
+🚀 Currently exploring Next.js, Mongoose, Redux, Material UI.
+</br>
+🌱 Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
+</br>
 📫 Reach me at [abdullahalmonir364@gmail.com](mailto:abdullahalmonir364@gmail.com)
 
 Open to contributing and new opportunities! 😊
