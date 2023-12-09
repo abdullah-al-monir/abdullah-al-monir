@@ -5,18 +5,27 @@
 ## <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" /> About Me
 
 <h3 align="center">Hi, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> I'm Abdullah Al Monir</h3>
-
 <p align="center">I am a Junior Front-End Developer</p>
 
-🚀 Eager learner in frontend development, focusing on crafting responsive web interfaces.
 
-💻 Proficient in HTML, CSS, and JavaScript,
+- Eager learner in frontend development, focusing on crafting responsive web interfaces.
+- Proficient in:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Tailwind CSS
+  - Bootstrap
+  - Firebase
+  - MongoDB
+- Currently exploring:
+  - NextJs
+  - Mongoose
+  - Redux
+  - Material Tailwind
+- Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
 
-🛠️ Keen to explore React, Tailwind CSS, Bootstrap, Firebase, and MongoDB.
-
-🌱 Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
-
-📫 Reach me at <a>abdullahalmonir364@gmail.com</a>
+📫 Reach me at [abdullahalmonir364@gmail.com](mailto:abdullahalmonir364@gmail.com)
 
 Open to contributing and new opportunities! 😊
 
@@ -69,9 +78,9 @@ Open to contributing and new opportunities! 😊
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> Git Activity
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-al-monir&theme=algolia" alt="GitHub Streak" /></a>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-al-monir&theme=algolia" alt="GitHub Streak" />
 </p>
 <p align="center">
-<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-monir&show_icons=true&theme=transparent&rank_icon=github" /></p>
+<img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-monir&show_icons=true&theme=algolia&rank_icon=github" /></p>
 <p align="center">
 <img width="60%" style="margin: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-monir&theme=algolia&layout=compact" /></p>
