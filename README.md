@@ -20,7 +20,7 @@
 
 Open to contributing and new opportunities! 😊
 
-## <img src="https://media.giphy.com/media/dioml5wsoBZYqJGqip/giphy.gif" height="35px" width="35px" /> Social
+## <img src="https://media.giphy.com/media/vTUs60YG8Cdgl3s0Ky/giphy.gif" height="30px" width="30px" /> Social
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aam364)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_colon_three)
@@ -50,19 +50,19 @@ Open to contributing and new opportunities! 😊
 
 ### [Work Atlas](https://work-atlas.web.app)
 
-![Work Atlas](/images/work%20atlas.JPG)
+[![Work Atlas](/images/work%20atlas.JPG)](https://work-atlas.web.app)
 
 **Work Atlas** is a **Job Recruitment Site** built with **ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs, EmailJS, React to PDF, and JWT**. This project demonstrates my ability to **Responsive design, Backend integration, Data visualization, Search functionality,Sending email functionality, PDF downloading system and User authentication**. You can check out the repository [Client Side](https://github.com/abdullah-al-monir/work-atlas-client), [Server Side](https://github.com/abdullah-al-monir/work-atlas-server).
 
 ### [Automotive Oasis](https://automotive-oasis.web.app)
 
-![Automotive Oasis](/images/automotive-oasis.png)
+[![Automotive Oasis](/images/automotive-oasis.JPG)](https://automotive-oasis.web.app)
 
 **Automotive Oasis** is an **Online car shop website** built with **ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, and NodeJs**. This project showcases my skills in **Responsive design, Backend integration, Data visualization, Search functionality, and User authentication**. You can check out the repository [Client Side](https://github.com/abdullah-al-monir/online-car-shop-client), [Server Side](https://github.com/abdullah-al-monir/online-car-shop-server)
 
 ### [NexGen Diagnosia](https://nexgen-diagnosia.web.app)
 
-![NexGen Diagnosia](/images/nexgen-diagnosia.png)
+[![NexGen Diagnosia](/images/nexgen-diagnosia.JPG)](https://nexgen-diagnosia.web.app)
 
 **NexGen Diagnosia** is a **Diagnostic Center Website** built with **ReactJs, Material UI, Firebase, MongoDB, ExpressJs, NodeJs, JWT, Stripe Js, and Tanstack Query**. This project showcases my skills in **Responsive design, Backend integration, Data visualization, Implement payment method using stripe, Implement 2 different role, also added dashboard for users and admin**. You can check out the repository [Client Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-client),[Server Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-server)
 
