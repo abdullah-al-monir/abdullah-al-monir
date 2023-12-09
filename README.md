@@ -73,13 +73,13 @@ Open to contributing and new opportunities! 😊
 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-al-monir&theme=algolia" alt="GitHub Streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-al-monir&theme=algolia" alt="GitHub Streak" />
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 5px;">
 </p>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-al-monir&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-al-monir&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 5px;">
 </p>
