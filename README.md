@@ -43,17 +43,13 @@
 [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Adobe Illustrator Badge](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 
-
 ## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" height="30px" width="30px" /> Featured Projects
 
-
-| Project Name     | Description               | Technologies Used                                                                          | Repository Links                                                                                                                                         | Image                                                                                 |
+| Project Name     | Description               | Technologies Used                                                                          | Repository Links                                                                                                                                         | Image (Live Link)                                                                     |
 | ---------------- | ------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Work Atlas       | Job Recruitment Site      | ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs                                 | [Client Side](https://github.com/abdullah-al-monir/work-atlas-client), [Server Side](https://github.com/abdullah-al-monir/work-atlas-server)             | [![Work Atlas](/images/work%20atlas.JPG)](https://work-atlas.web.app)                 |
 | Automotive Oasis | Online Car Shop Website   | ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs                                 | [Client Side](https://github.com/abdullah-al-monir/online-car-shop-client), [Server Side](https://github.com/abdullah-al-monir/online-car-shop-server)   | [![Automotive Oasis](/images/automotive-oasis.JPG)](https://automotive-oasis.web.app) |
 | NexGen Diagnosia | Diagnostic Center Website | ReactJs, Material UI, Firebase, MongoDB, ExpressJs, NodeJs, JWT, Stripe Js, Tanstack Query | [Client Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-client), [Server Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-server) | [![NexGen Diagnosia](/images/nexgen-diagnosia.JPG)](https://nexgen-diagnosia.web.app) |
-
-
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
 
