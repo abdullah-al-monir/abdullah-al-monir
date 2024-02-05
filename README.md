@@ -9,9 +9,9 @@
 
 🌟 Eager learner in frontend development, focusing on crafting responsive web interfaces.
 </br>
-💻 Proficient in HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Firebase, MongoDB.
+💻 Proficient in HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, MongoDB.
 </br>
-🚀 Currently exploring Next.js, Mongoose, Redux, Material UI.
+🚀 Currently exploring PHP, Laravel, MySQL.
 </br>
 🌱 Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
 </br>
