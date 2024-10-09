@@ -9,9 +9,9 @@
 
 🌟 Eager learner in web development, focusing on crafting responsive web interfaces.
 </br>
-💻 Proficient in HTML, CSS, JavaScript, PHP, React, Laravel, InertiaJs, Tailwind CSS, Firebase, MongoDB.
+💻 Proficient in HTML, CSS, JavaScript, PHP, ReactJs, NextJs, Laravel, InertiaJs, Tailwind CSS, Firebase, MongoDB.
 </br>
-🚀 Currently working with React, Laravel, InertiaJs, MySQL.
+🚀 Currently working with ReactJs, NextJs, Laravel, InertiaJs, MySQL.
 </br>
 🌱 Dedicated to continuous growth and contributing fresh perspectives to the web development industry.
 </br>
@@ -45,6 +45,7 @@
 [![ExpressJs Badge](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![ReactJs Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![NodeJs Badge](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NextJs Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![DaisyUI Badge](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
