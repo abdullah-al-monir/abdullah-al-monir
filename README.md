@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&weight=600&size=25&pause=1000&width=435&lines=A+Software+Developer;A+Web+Developer;A+MERN+Stack+Developer;A+Full+Stack+Developer;A+NextJs+Developer;A+Frotnend+Developer)](https://git.io/typing-svg)
+
 <img src="./images/github-profile-banner.png" alt="Front-End Developer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-monir&color=008000)
@@ -94,7 +96,6 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 
 </br>
 
-
 ## <img src="https://media.giphy.com/media/vTUs60YG8Cdgl3s0Ky/giphy.gif" height="30px" width="30px" /> Social
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aam364)
@@ -188,6 +189,7 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 
 | Project Name     | Description               | Technologies Used                                                                          | Repository Links                                                                                                                                         | Image (Live Link)                                                                     |
 | ---------------- | ------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Neighbr       | An artisan platform    | NextJs, ExpressJs, MongoDB,JWT, Stripe, EmailJS,Shadcn              | [Client Side](https://github.com/abdullah-al-monir/neighbr-frontend), [Server Side](https://github.com/abdullah-al-monir/neighbr-backend)             | [![Work Atlas](/images/neighbr.png)](https://neighbr-six.vercel.app)                 |
 | Work Atlas       | Job Recruitment Site      | ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs                                 | [Client Side](https://github.com/abdullah-al-monir/work-atlas-client), [Server Side](https://github.com/abdullah-al-monir/work-atlas-server)             | [![Work Atlas](/images/work%20atlas.JPG)](https://work-atlas.web.app)                 |
 | Automotive Oasis | Online Car Shop Website   | ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs                                 | [Client Side](https://github.com/abdullah-al-monir/online-car-shop-client), [Server Side](https://github.com/abdullah-al-monir/online-car-shop-server)   | [![Automotive Oasis](/images/automotive-oasis.JPG)](https://automotive-oasis.web.app) |
 | NexGen Diagnosia | Diagnostic Center Website | ReactJs, Material UI, Firebase, MongoDB, ExpressJs, NodeJs, JWT, Stripe Js, Tanstack Query | [Client Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-client), [Server Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-server) | [![NexGen Diagnosia](/images/nexgen-diagnosia.JPG)](https://nexgen-diagnosia.web.app) |
