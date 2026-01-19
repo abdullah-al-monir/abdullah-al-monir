@@ -33,7 +33,7 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 ## 💼 Professional Experience
 
 <h3>Software Developer</h3>
-<b>Nov 2024 – Present</b>
+<b>Nov 2024 – December 2025</b>
 <ul>
   <li>Promoted to full-time role after demonstrating strong technical ownership and delivery.</li>
   <li>Building robust production applications using <b>React.js, Next.js, Laravel, and Inertia.js</b>.</li>
