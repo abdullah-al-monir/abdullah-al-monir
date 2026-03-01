@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&weight=600&size=25&pause=1000&width=435&lines=A+Software+Developer;A+Web+Developer;A+MERN+Stack+Developer;A+Full+Stack+Developer;A+NextJs+Developer;A+Frotnend+Developer)](https://git.io/typing-svg)
-
 <img src="./images/banner.png" alt="Front-End Developer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-monir&color=008000)
