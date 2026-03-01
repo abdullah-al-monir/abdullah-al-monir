@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&weight=600&size=25&pause=1000&width=435&lines=A+Software+Developer;A+Web+Developer;A+MERN+Stack+Developer;A+Full+Stack+Developer;A+NextJs+Developer;A+Frotnend+Developer)](https://git.io/typing-svg)
 
-<img src="./images/github-profile-banner.png" alt="Front-End Developer" />
+<img src="./images/banner.png" alt="Front-End Developer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullah-al-monir&color=008000)
 
@@ -17,9 +17,7 @@
 ## 🚀 Software Developer | Full-Stack & DevOps
 
 <p>
-I am a <b>results-driven Software Developer</b> with a strong foundation in building modern, scalable web applications.
-From crafting elegant interfaces with <b>shadcn/ui</b> to managing <b>VPS servers with Nginx</b>, I enjoy owning the
-<b>full lifecycle of production-grade software</b> — from idea to deployment.
+From crafting elegant interfaces with <b>shadcn/ui</b> to managing <b>VPS servers with Nginx</b> and containerizing apps with <b>Docker</b>, I enjoy owning the <b>full lifecycle of production-grade software</b> — from idea to deployment.
 </p>
 
 <p>
@@ -32,7 +30,17 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 
 ## 💼 Professional Experience
 
-<h3>Software Developer</h3>
+<h3>Full Stack Developer — Everything Green Limited</h3>
+<b>February 2026 – Present</b>
+<ul>
+  <li>Building scalable full-stack applications using <b>Next.js and Express.js</b>.</li>
+  <li>Containerizing services with <b>Docker</b> for consistent dev and production environments.</li>
+  <li>Managing data with <b>PostgreSQL</b> and <b>Prisma ORM</b> for type-safe database operations.</li>
+  <li>Leveraging <b>ClickHouse</b> for high-performance analytical data processing.</li>
+  <li>Integrating <b>Stripe, Cloudinary, and NodeMailer</b> for payments, media, and email.</li>
+</ul>
+
+<h3>Software Developer — Synchronise IT</h3>
 <b>November 2024 – December 2025</b>
 <ul>
   <li>Promoted to full-time role after demonstrating strong technical ownership and delivery.</li>
@@ -41,7 +49,7 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
   <li>Working closely with product teams to ship scalable features.</li>
 </ul>
 
-<h3>Software Developer Trainee</h3>
+<h3>Software Developer Trainee — Synchronise IT</h3>
 <b>March 2024 – October 2024</b>
 <ul>
   <li>Gained intensive hands-on experience in full-stack web development workflows.</li>
@@ -87,12 +95,22 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 ## 🔭 Current Focus
 
 <ul>
-  <li>🚀 <b>Open for:</b> Full-time Software Developer opportunities</li>
-  <li>🌱 <b>Learning:</b> System Design & Backend Architecture</li>
+  <li>🚀 <b>Currently:</b> Working as a Full Stack Developer</li>
+  <li>🌱 <b>Exploring:</b> NestJS, Prisma, ClickHouse & Docker</li>
   <li>🎯 <b>Goal:</b> Building high-impact products with a focus on performance, scalability & UX</li>
 </ul>
-</br>
-📫 Reach me at [abdullahalmonir364@gmail.com](mailto:abdullahalmonir364@gmail.com)
+
+## ⚡ Fun Facts
+
+- 🌙 I code better at night
+- ☕ Powered by coffee and curiosity
+- 🚀 Always exploring new technologies and keeping up with the latest in the tech world
+  </br>
+
+## 📧 Contact Me
+  <a href="mailto:abdullahalmonir364@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abdullahalmonir364%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
 </br>
 
@@ -139,6 +157,8 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 
 ---
 
@@ -148,11 +168,14 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
 
 ---
 
 ### 🚀 DevOps & Hosting
 
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)](https://pm2.keymetrics.io/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
@@ -170,6 +193,9 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodemailer.com/)
 [![SendGrid](https://img.shields.io/badge/SendGrid-%23EA2028.svg?style=for-the-badge&logo=SendGrid&logoColor=white)](https://sendgrid.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
+[![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs/)
+[![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)](https://tanstack.com/query)
 
 ---
 
@@ -189,12 +215,16 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 
 | Project Name     | Description               | Technologies Used                                                                          | Repository Links                                                                                                                                         | Image (Live Link)                                                                     |
 | ---------------- | ------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Neighbr       | An artisan platform    | NextJs, ExpressJs, MongoDB,JWT, Stripe, EmailJS,Shadcn              | [Client Side](https://github.com/abdullah-al-monir/neighbr-frontend), [Server Side](https://github.com/abdullah-al-monir/neighbr-backend)             | [![Work Atlas](/images/neighbr.png)](https://neighbr-six.vercel.app)                 |
+| Neighbr          | An artisan platform       | NextJs, ExpressJs, MongoDB,JWT, Stripe, EmailJS,Shadcn                                     | [Client Side](https://github.com/abdullah-al-monir/neighbr-frontend), [Server Side](https://github.com/abdullah-al-monir/neighbr-backend)                | [![Work Atlas](/images/neighbr.png)](https://neighbr-six.vercel.app)                  |
 | Work Atlas       | Job Recruitment Site      | ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs                                 | [Client Side](https://github.com/abdullah-al-monir/work-atlas-client), [Server Side](https://github.com/abdullah-al-monir/work-atlas-server)             | [![Work Atlas](/images/work%20atlas.JPG)](https://work-atlas.web.app)                 |
 | Automotive Oasis | Online Car Shop Website   | ReactJs, TailwindCSS, Firebase, MongoDB, ExpressJs, NodeJs                                 | [Client Side](https://github.com/abdullah-al-monir/online-car-shop-client), [Server Side](https://github.com/abdullah-al-monir/online-car-shop-server)   | [![Automotive Oasis](/images/automotive-oasis.JPG)](https://automotive-oasis.web.app) |
 | NexGen Diagnosia | Diagnostic Center Website | ReactJs, Material UI, Firebase, MongoDB, ExpressJs, NodeJs, JWT, Stripe Js, Tanstack Query | [Client Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-client), [Server Side](https://github.com/abdullah-al-monir/nexgen-diagnosia-server) | [![NexGen Diagnosia](/images/nexgen-diagnosia.JPG)](https://nexgen-diagnosia.web.app) |
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
+
+<p align="center">
+  <img width="96.5%" src="https://streak-stats.demolab.com?user=abdullah-al-monir&theme=algolia&hide_border=true" />
+</p>
 
 <p align="center">
 <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-al-monir&theme=algolia" alt="GitHub Streak" />
@@ -206,4 +236,8 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-al-monir&theme=algolia" style="width: 48%; margin-bottom: 5px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-al-monir&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-al-monir&theme=algolia&no-frame=true&row=1" />
 </p>
