@@ -6,21 +6,22 @@
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" height="50" width="300">
 </a>
 
-## <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" /> About Me
 
-<h2><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> Hi, I'm Abdullah Al Monir</h2>
+# 👋 Hi, I'm Abdullah Al Monir | @mr-colon-three
 
-<!-- ================= PROFESSIONAL SUMMARY ================= -->
+## 🚀 Full-Stack Developer | Chittagong, Bangladesh
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aam364)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bugfixpro)
 
-## 🚀 Software Developer | Full-Stack & DevOps
+Founder of **[Bug Fix Pro](https://www.youtube.com/@bugfixpro)**.
 
-<p>
-From crafting elegant interfaces with <b>shadcn/ui</b> to managing <b>VPS servers with Nginx</b> and containerizing apps with <b>Docker</b>, I enjoy owning the <b>full lifecycle of production-grade software</b> — from idea to deployment.
-</p>
+I specialize in building high-performance web applications using the **MERN stack**, **Next.js**, and **Laravel**. With a strong academic background in **Mathematics (BSc)**, I focus on algorithmic efficiency, clean code, and production-grade DevOps.
 
-<p>
-I focus on writing clean, maintainable code while ensuring <b>performance, scalability, and security</b>.
-</p>
+- 📍 Based in **Chittagong, Bangladesh**
+- 🛠️ Currently building green-tech solutions at **Everything Green Limited**
+- 📹 Sharing deep-dive bug fixes and tutorials on YouTube
+- 🧠 I apply mathematical logic to solve complex software engineering problems
+
 
 ---
 
@@ -56,7 +57,10 @@ I focus on writing clean, maintainable code while ensuring <b>performance, scala
 </ul>
 
 ---
-
+## 📹 Bug Fix Pro — Latest on YouTube
+I created **Bug Fix Pro** to help developers navigate complex bugs in Next.js, React, NodeJs and Laravel (Any framework or language). 
+- 🎯 **Goal:** Making high-level software debugging accessible to everyone.
+[▶️ Subscribe to Bug Fix Pro](https://www.youtube.com/@bugfixpro?sub_confirmation=1)
 <!-- ================= SKILLS ================= -->
 
 ## 🛠️ Tech Stack & Skills
