@@ -18,7 +18,7 @@ Founder of **[Bug Fix Pro](https://www.youtube.com/@bugfixpro)**.
 I specialize in building high-performance web applications using the **MERN stack**, **Next.js**, and **Laravel**. With a strong academic background in **Mathematics (BSc)**, I focus on algorithmic efficiency, clean code, and production-grade DevOps.
 
 - 📍 Based in **Chittagong, Bangladesh**
-- 🛠️ Currently building green-tech solutions at **Everything Green Limited**
+- 🛠️ Currently seeking for challenging opportunities
 - 📹 Sharing deep-dive bug fixes and tutorials on YouTube
 - 🧠 I apply mathematical logic to solve complex software engineering problems
 
@@ -30,13 +30,17 @@ I specialize in building high-performance web applications using the **MERN stac
 ## 💼 Professional Experience
 
 <h3>Full Stack Developer — Everything Green Limited</h3>
-<b>February 2026 – Present</b>
+<b>February 2026 – July, 2026</b>
 <ul>
   <li>Building scalable full-stack applications using <b>Next.js and Express.js</b>.</li>
   <li>Containerizing services with <b>Docker</b> for consistent dev and production environments.</li>
   <li>Managing data with <b>PostgreSQL</b> and <b>Prisma ORM</b> for type-safe database operations.</li>
   <li>Leveraging <b>ClickHouse</b> for high-performance analytical data processing.</li>
   <li>Integrating <b>Stripe, Cloudinary, and NodeMailer</b> for payments, media, and email.</li>
+  <li>Implementing <b>JWT authentication</b> for secure user sessions.</li>
+  <li>Ensuring <b>CI/CD pipelines</b> for efficient development and deployment.</li>
+  <li>Collaborating with cross-functional teams to deliver high-quality software.</li>
+  <li>Implemented third party api like <b>Data for SEO</b>, Google Analytics and Facebook Pixel</li>
 </ul>
 
 <h3>Software Developer — Synchronise IT</h3>
